@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Meet Achaire ZOGO: A Software Engineer and Networking Expert</h1>
 <p align="center">
-  <img src="your-profile-picture-url.jpg" alt="Achaire ZOGO">
+  <img src="https://avatars.githubusercontent.com/u/61749305?v=4" alt="Achaire ZOGO">
 </p>
 <p align="center">With a passion for development and a wealth of experience, I'm here to make a difference in the world of technology.</p>
 <h2 align="center">👨‍💻 Who Am I?</h2>
