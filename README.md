@@ -14,33 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<h1 align="center">Meet Achaire ZOGO: A Software Engineer and Networking Expert</h1>
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/61749305?v=4" alt="Achaire ZOGO" width="200px" height="200px">
-</p>
-<p align="center">With a passion for development and a wealth of experience, I'm here to make a difference in the world of technology.</p>
-<h2 align="center">👨‍💻 Who Am I?</h2>
-<p align="center">
-  I am Achaire ZOGO, a highly skilled and experienced Software Engineer with a strong background in Computer Networking. With over four years of dedicated experience in the software development field, I have had the privilege of working on numerous projects, each contributing to my growth as a professional. My journey in technology has been marked by a commitment to excellence and a genuine enthusiasm for creating innovative solutions.
-</p>
-<h2 align="center">🌐 Expertise</h2>
-<p align="center">
-  My expertise extends across the spectrum of software development and computer networking. In addition to being proficient in various programming languages and software development methodologies, I have a deep understanding of computer networking principles. This combination of skills allows me to design and develop robust, efficient, and secure software applications while also ensuring they seamlessly integrate into network environments. I thrive on tackling complex challenges and turning them into elegant, scalable solutions.
-</p>
-<h2 align="center">🚀 My Career Journey</h2>
-<p align="center">
-  Throughout my career, I have contributed to a wide range of projects, each presenting its unique set of challenges and opportunities. Whether it's developing cutting-edge software applications or configuring intricate network infrastructures, I approach each task with unwavering dedication and a commitment to delivering excellence. My portfolio showcases my versatility, from designing user-friendly applications to optimizing network performance for enhanced data transmission.
-</p>
-<h2 align="center">🔬 My Research</h2>
-<p align="center">
-  I am deeply passionate about technology and its transformative potential. My current field of research revolves around Wireless Sensor Networks (WSN), particularly in the Internet of Things (IoT) domain. I am committed to advancing the capabilities of WSN to enable real-time data collection and analysis, thereby contributing to the growth of IoT applications. This research is not just a profession but a personal quest to push the boundaries of what is possible in the world of technology.
-</p>
-<h2 align="center">✨ My Vision</h2>
-<p align="center">
-  I envision a future where technology enriches our lives and empowers us to address global challenges. With my extensive experience and passion for innovation, I am dedicated to making this vision a reality. I believe that through collaboration, exploration, and a relentless pursuit of excellence, we can shape a brighter future for generations to come.
-</p>
-<p align="center">Thank you for joining me on this incredible journey. Let's create, innovate, and inspire together!</p>
+<h1 align="center">Meet Achaire ZOGO: A Software Engineer and Networking Expert</h1> <p align="center"> <img src="https://avatars.githubusercontent.com/u/61749305?v=4" alt="Achaire ZOGO" width="200px" height="200px"> </p> <p align="center">With a deep passion for development and a solid foundation in networking, I'm here to shape the future of technology with innovative solutions and strategic insights.</p> <h2 align="center">👨‍💻 Who Am I?</h2> <p align="center"> I am Achaire ZOGO, a seasoned Software Engineer and Networking Specialist with over five years of experience in the industry. My career has been built on a strong technical foundation, complemented by hands-on experience in developing and implementing high-performance software solutions. I have a proven track record of delivering complex projects, leveraging my expertise in both software engineering and networking to create seamless, integrated systems. </p> <h2 align="center">🌐 Expertise</h2> <p align="center"> My skill set spans a broad range of disciplines within software development and network engineering. I am proficient in multiple programming languages, including Python, Java, and JavaScript, and have extensive experience with frameworks such as Laravel and Flutter. My deep understanding of networking protocols and infrastructure allows me to design software that is not only functional but also optimized for network efficiency and security. I specialize in bridging the gap between software development and network configuration, ensuring that the applications I create are robust, scalable, and secure. </p> <h2 align="center">🚀 My Career Journey</h2> <p align="center"> Throughout my career, I have been involved in a variety of projects that showcase my versatility and technical prowess. From leading the development of enterprise-grade software systems to architecting complex network infrastructures, I have consistently delivered high-quality solutions. My work includes optimizing network performance for data-intensive applications, developing real-time communication systems, and creating scalable cloud-based platforms. Each project has enriched my experience and sharpened my ability to solve intricate technical challenges. </p> <h2 align="center">🔬 My Research</h2> <p align="center"> My passion for technology extends beyond professional work into research. Currently, I am focused on the advancement of Wireless Sensor Networks (WSN) within the Internet of Things (IoT) ecosystem. My research aims to enhance the efficiency and scalability of WSNs, enabling more effective real-time data collection and analysis. I am particularly interested in how these networks can be applied to smart cities, environmental monitoring, and industrial automation, contributing to the ongoing evolution of IoT technologies. </p> <h2 align="center">✨ My Vision</h2> <p align="center"> I envision a future where technology seamlessly integrates into every aspect of our lives, driving innovation and addressing global challenges. My goal is to be at the forefront of this transformation, leveraging my expertise to create technologies that not only meet today’s needs but also anticipate the challenges of tomorrow. Through continuous learning, collaboration, and a relentless pursuit of excellence, I am committed to shaping a future where technology empowers individuals and communities worldwide. </p> <p align="center">Thank you for joining me on this exciting journey. Let's innovate and make a lasting impact together!</p>
  
    ![image](https://images.squarespace-cdn.com/content/v1/5e4d7de0d74fc34b2460cac6/1582170204144-CMMUVF14OKZ7YELCOSUF/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/DEVOPS+GIF.gif)
   
@@ -78,8 +52,8 @@ Here are some ideas to get you started:
 
 <p align="left">
 
-Follow me on : <a href="https://www.linkedin.com/in/steve-nanfack-048a30207/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/steve-nanfack-048a30207/" height="20" width="20" /></a>
-  <a href="https://www.facebook.com/nanfack.steve7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/stevebhhj/" height="20" width="20" /></a>
-  <a href="https://twitter.com/nanfack_steve_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/nanfack_steve_" height="20" width="20" /></a>
+Follow me on : <a href="https://www.linkedin.com/in/Achaire-Zogo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/Achaire-Zogo/" height="20" width="20" /></a>
+  <a href="https://www.facebook.com/achaire-zogo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/stevebhhj/" height="20" width="20" /></a>
+  <a href="https://twitter.com/ZABouma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/nanfack_steve_" height="20" width="20" /></a>
 
 </p>
